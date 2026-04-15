@@ -1,7 +1,7 @@
 ---
 date: 2025-01-01
 publishDate: 2025-01-01
-external_link: "https://github.com/simongravelle"
+external_link: "https://github.com/MelonieNimasha"
 image:
   caption: Fluid transport through polymers
   focal_point: Smart
