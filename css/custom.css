@@ -2,7 +2,9 @@
 .home-section {
   background-color: transparent;
   z-index: 1;
+  font-size: 0.95rem;
 }
+
 
 #watermark{
 	/*background-image:url('http://physics.ucr.edu/~flip/images/BG_Bundle2.jpg');*/

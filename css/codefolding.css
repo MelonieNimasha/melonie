@@ -7,14 +7,14 @@
   width: 11%;
   padding: 6px;
   float: left;
-  font-size: .75rem;
+  font-size: .55rem;
   font-weight: 400;
   background: #E9B578;
   border: 0;
 }
 
 .code-folding-btn:hover { 
-  font-size: .75rem;
+  font-size: .55rem;
   font-weight: 600;
 }
 
