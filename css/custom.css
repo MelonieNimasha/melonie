@@ -6,7 +6,7 @@
 
 /* Remove extra initial top offset on homepage first section. */
 .home-section:first-of-type {
-  padding-top: 0;
+  padding-top: 700px;
 }
 
 #watermark{
@@ -16,8 +16,8 @@
 	background-position:left top;
 	margin: 0;
 	padding: 0;
-	position: absolute;
-	top: 30px;
+	position: fixed;
+	top: 0px;
 	left: 0px;
   pointer-events: none;
 	/*z-index: 0;*/
