@@ -4,8 +4,8 @@ publishDate: 2024-01-15
 external_link: ""
 slides: example
 # summary: 
-tags:
-- Outreach
+# tags:
+# - Outreach
 title: 🎓 Started PhD at the University of Glasgow.
 # links:
   # - icon_pack: fas

@@ -4,8 +4,8 @@ publishDate: 2026-03-31
 external_link: ""
 slides: example
 # summary: 
-tags:
-- Outreach
+# tags:
+# - Outreach
 title: 🎉 Paper accepted at the AI4Space Workshop (CVPR 2026).
 # links:
   # - icon_pack: fas

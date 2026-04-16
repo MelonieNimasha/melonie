@@ -8,7 +8,7 @@ headless: true
 weight: 40
 
 title: Selected Publications
-subtitle: 'See also my [Google Scholar](https://scholar.google.com/citations?user=wjwfay8AAAAJ&hl=en) profile'
+# subtitle: 'See also my [Google Scholar](https://scholar.google.com/citations?user=wjwfay8AAAAJ&hl=en) profile'
 
 show_conference: true
 content:

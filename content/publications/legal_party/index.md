@@ -1,6 +1,6 @@
 ---
 title: "Identifying Legal party Members from Legal Opinion Text using Natural Language Processing"
-publishDate: 2021
+publishDate: 2021-12-01
 
 authors:
   - Melonie de Almeida

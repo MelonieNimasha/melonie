@@ -4,8 +4,8 @@ publishDate: 2026-03-24
 external_link: ""
 slides: example
 # summary: 
-tags:
-- Outreach
+# tags:
+# - Outreach
 title: 🎉 Paper accepted at ICPR 2026.
 # links:
   # - icon_pack: fas

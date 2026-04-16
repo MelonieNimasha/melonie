@@ -4,8 +4,8 @@ publishDate: 2026-03-20
 external_link: ""
 slides: example
 # summary: 
-tags:
-- Outreach
+# tags:
+# - Outreach
 title: 🎉 Paper accepted at WCCI 2026.
 # links:
   # - icon_pack: fas
