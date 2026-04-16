@@ -2,7 +2,17 @@
 .home-section {
   background-color: transparent;
   z-index: 1;
-  font-size: 0.55rem;
+  font-size: 0.65rem;
+}
+
+.home-section:first-of-type {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+.home-section p,
+.home-section li {
+  font-size: 0.9rem;
+  line-height: 1.5;
 }
 
 
