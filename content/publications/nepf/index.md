@@ -19,5 +19,10 @@ links:
     icon: Arxiv
     name: ArXiv
     url: "https://arxiv.org/abs/2604.13235"
+
+  - icon_pack: fas
+    icon: external-link-alt
+    name: Project Page
+    url: "https://meloniedealmeida.github.io/NePF_page/"
 ---
 AI4Space Workshop at CVPR 2026 (accepted)
