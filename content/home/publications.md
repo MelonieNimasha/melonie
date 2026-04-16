@@ -7,9 +7,10 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Publications
-subtitle: 'See also my [Scholar](https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl) profile'
+title: Selected Publications
+subtitle: 'See also my [Google Scholar](https://scholar.google.com/citations?user=wjwfay8AAAAJ&hl=en) profile'
 
+show_conference: true
 content:
   # Filter on criteria
   filters:
@@ -28,8 +29,8 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-design:
-  # Choose a view for the listings:
-  view: citation
-  columns: '2'
+# design:
+#   # Choose a view for the listings:
+#   view: citation
+#   columns: '2'
 ---

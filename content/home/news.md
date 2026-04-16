@@ -1,4 +1,4 @@
----
+<!-- ---
 active: true
 widget: portfolio
 headless: true
@@ -8,15 +8,15 @@ subtitle: ''
 content:
   page_type: news
   filter_default: 0
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: Job
-      tag: Job
-    - name: Personal
-      tag: Personal
-    - name: Outreach
-      tag: Outreach
+  # filter_button:
+  #   - name: All
+  #     tag: '*'
+  #   - name: Job
+  #     tag: Job
+  #   - name: Personal
+  #     tag: Personal
+  #   - name: Outreach
+  #     tag: Outreach
   count: 3
   offset: 0
 design:
@@ -28,4 +28,4 @@ design:
   #   5 = Showcase
   view: 2
   flip_alt_rows: false
----
+--- -->

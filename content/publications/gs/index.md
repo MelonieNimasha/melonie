@@ -1,0 +1,27 @@
+---
+title: "Sampling 3D Gaussian Scenes in Seconds with Latent Diffusion Models"
+publishDate: 2026-03-20
+
+authors:
+  - Melonie de Almeida
+  - Daniela Ivanova
+  - Paul Henderson
+  - Titas Anciukevičius
+
+publication_types:
+  - "2"
+
+featured: true
+
+links:
+  - icon_pack: ai
+    icon: arxiv
+    name: arXiv
+    url: "https://arxiv.org/abs/2406.13099"
+
+  - icon_pack: fas
+    icon: external-link-alt
+    name: Project Page
+    url: "https://anciukevicius.com/seconds/"
+---
+WCCI 2026 (accepted)

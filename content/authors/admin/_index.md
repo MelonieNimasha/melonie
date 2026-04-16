@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Simon Gravelle
+title: Melonie de Almeida
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Melonie
+last_name: de Almeida
 
 # Status emoji
 status:
@@ -14,77 +14,73 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CNRS research scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LIPhy, Grenoble, France
-    url: https://liphy.univ-grenoble-alpes.fr/
+  - name: University of Glasgow
+    # url: https://liphy.univ-grenoble-alpes.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computer physicist in soft matter and fluids at interfaces in LIPhy (UGA, CNRS), in Grenoble, France.
+bio: am a PhD student at the University of Glasgow interested in computer vision and machine learning.
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - 3D Reconstruction
+  - Probabilistic Modelling
+  - Video Prediction
+  - Physics-Inspired Computer Vision
+  - Applied Computer Vision for Space Science
+
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
+    - course: PhD in Computing Science
+      institution: University of Glasgow
+      year: 2028
 
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-# Alternatively, use `google-scholar` icon from `ai` icon pack
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:simon.gravelle@cnrs.fr
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/simongravelle
-    display:
-      header: true
-  - icon: mastodon
-    icon_pack: fab
-    link: https://mastodon.social/@simongravelle
-    label: Follow me on Mastodon
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl
-  - icon: cv
-    icon_pack: ai
-    link: files/resume/resume-simon-gravelle.pdf
+# social:
+#   # - icon: github
+#   #   icon_pack: fab
+#   #   link: https://github.com/meloniedealmeida
+#   #   display:
+#   #     header: true
+#   - icon: cv
+#     icon_pack: ai
+#     link: files/resume/resume-melonie.pdf
 
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
 
 ### About me ##
 
-I am a computational physicist specializing in soft matter and fluids at interfaces, working at the LIPhy institute in Grenoble, France. In parallel, I serve as the Scientific Secretary of Section 08 of the National Committee.
+I am a PhD student at the University of Glasgow working at the intersection of computer vision, probabilistic modeling, and physics‑inspired machine learning. My research focuses on developing probabilistic methods for 3D and 4D reconstruction in settings where data are limited or highly constrained. I am particularly interested in incorporating uncertainty modeling and physical priors to enable more robust reasoning about geometry and dynamics, with key applications in space science and autonomous driving.
 
-<a href="https://github.com/simongravelle" target="_blank" style="float: right">
+<!-- <a href="https://github.com/meloniedealmeida" target="_blank" style="float: right">
   <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
-</a>
+</a> -->
 
 <span style="display: block; height: 8px;"></span>
 
-### What I share on <a href="https://github.com/simongravelle" target="_blank" style="text-decoration: none;">GitHub</a> ##
 
-  - Input files for molecular simulations
-  - Scripts for preparing and analyzing simulations
-  - Data and scripts from my recent publications
 
-<span style="display: block; height: 8px;"></span>
 
-### My primary outreach projects ##
+### News
 
-  - <a href="https://github.com/lammpstutorials" target="_blank" style="text-decoration: none;">LAMMPS tutorials</a> for LAMMPS beginners
-  - <a href="https://github.com/mdcourse" target="_blank" style="text-decoration: none;">Guides</a> for implementing molecular simulations from scratch
+|        |   |  |
+|------------|---|--------|
+| **Mar 2026** | 🎉 | Paper accepted at the AI4Space Workshop (CVPR 2026) |
+| **Mar 2026** | 🎉 | Paper accepted at ICPR 2026 |
+| **Mar 2026** | 🎉 | Paper accepted at WCCI 2026 |
+| **Jan 2024** | 🎓 | Started PhD at the University of Glasgow |
+| **Dec 2023** | 🎓 | Graduated with an MSc in Data Science from the University of Glasgow |
+
+
+
+
+
+
+ 
+
 
