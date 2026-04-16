@@ -67,13 +67,11 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 ### About me ##
 
 
-I am currently a Computer Science PhD student at the University of Glasgow working at the intersection of computer vision, probabilistic modeling, and physics‑inspired machine learning. I am part of the [Computer Vision and Autonomous Systems (CVAS)](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/computervisionandautonomoussystems/) research group and the [Information, Data and Analysis (IDA) Section](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/). I am currently supervised by [Dr Paul Henderson](https://www.pmh47.net/) and [Dr John Williamson](https://www.gla.ac.uk/schools/computing/staff/johnwilliamson/).
+I am currently a Computer Science PhD student at the University of Glasgow working at the intersection of computer vision, probabilistic modeling, and physics‑inspired machine learning. I am part of the [Computer Vision and Autonomous Systems (CVAS)](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/computervisionandautonomoussystems/) research group and the [Information, Data and Analysis (IDA) Section](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/). I am currently supervised by [Dr Paul Henderson](https://www.pmh47.net/) and [Dr John Williamson](https://www.gla.ac.uk/schools/computing/staff/johnwilliamson/). My research focuses on developing probabilistic methods for 3D and 4D reconstruction in settings where data are limited or highly constrained. I am particularly interested in incorporating uncertainty modeling and physical priors to enable more robust reasoning about geometry and dynamics, with key applications in space science and autonomous driving.
 
-My research focuses on developing probabilistic methods for 3D and 4D reconstruction in settings where data are limited or highly constrained. I am particularly interested in incorporating uncertainty modeling and physical priors to enable more robust reasoning about geometry and dynamics, with key applications in space science and autonomous driving.
+<!-- #### Previous Experience 
 
-#### Previous Experience 
-
-Previously, I worked as a Machine Learning Engineer at [H2O.ai](https://h2o.ai/) and as a Machine Learning Research Intern at Nanyang Technological University (NTU). I hold an MSc in Data Science from the University of Glasgow and a BSc in Computer Science and Engineering from the University of Moratuwa.
+Previously, I worked as a Machine Learning Engineer at [H2O.ai](https://h2o.ai/) and as a Machine Learning Research Intern at Nanyang Technological University (NTU). I hold an MSc in Data Science from the University of Glasgow and a BSc in Computer Science and Engineering from the University of Moratuwa. -->
 
 <!-- <a href="https://github.com/meloniedealmeida" target="_blank" style="float: right">
   <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">

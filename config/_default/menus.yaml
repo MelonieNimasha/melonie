@@ -13,6 +13,9 @@ main:
   - name: Publications
     url: '#publications'
     weight: 40
+  - name: Contact
+    url: '#contact'
+    weight: 50
   
   # - name: CV
   #   url: files/resume/resume-melonie.pdf
