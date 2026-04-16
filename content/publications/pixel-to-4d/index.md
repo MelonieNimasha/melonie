@@ -16,8 +16,8 @@ featured: true
 
 links:
   - icon_pack: ai
-    icon: arxiv
-    name: arXiv
+    icon: Arxiv
+    name: ArXiv
     url: "https://arxiv.org/abs/2601.00678"
 
   - icon_pack: fas

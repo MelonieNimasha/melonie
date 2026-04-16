@@ -16,8 +16,8 @@ featured: true
 
 links:
   - icon_pack: ai
-    icon: arxiv
-    name: arXiv
-    url: "https://arxiv.org/abs/2601.00678"
+    icon: Arxiv
+    name: ArXiv
+    url: "https://arxiv.org/html/2604.13235v1"
 ---
 AI4Space Workshop at CVPR 2026 (accepted)
