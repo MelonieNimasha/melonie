@@ -4,6 +4,11 @@
   z-index: 1;
 }
 
+/* Remove extra initial top offset on homepage first section. */
+.home-section:first-of-type {
+  padding-top: 0;
+}
+
 #watermark{
 	/*background-image:url('http://physics.ucr.edu/~flip/images/BG_Bundle2.jpg');*/
 	background-size: 700px 350px;
