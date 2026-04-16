@@ -19,8 +19,7 @@ links:
     icon: Paper
     name: Paper
     url: "https://link.springer.com/chapter/10.1007/978-981-95-6950-2_35"
-
-links:
+    
   - icon_pack: ai
     icon: Arxiv
     name: ArXiv
