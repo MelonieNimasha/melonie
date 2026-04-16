@@ -7,7 +7,7 @@ widget: about
 active: true
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 20
@@ -16,7 +16,7 @@ title:
 
 # [design.spacing]
 # Customize the section spacing. Order is top, right, bottom, left.
-css_style: "padding-top: 1000px; padding-bottom: 1000px;"
+# css_style: "padding-top: 1000px; padding-bottom: 1000px;"
 
 # design:
 #   background:
