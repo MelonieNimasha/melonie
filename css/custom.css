@@ -4,11 +4,6 @@
   z-index: 1;
 }
 
-/* Remove extra initial top offset on homepage first section. */
-.home-section:first-of-type {
-  padding-top: 700px;
-}
-
 #watermark{
 	/*background-image:url('http://physics.ucr.edu/~flip/images/BG_Bundle2.jpg');*/
 	background-size: 700px 350px;
@@ -17,8 +12,8 @@
 	margin: 0;
 	padding: 0;
 	position: fixed;
-	top: 0px;
-	left: 0px;
+	top: 0;
+	left: 0;
   pointer-events: none;
 	/*z-index: 0;*/
 	height: 100%;
