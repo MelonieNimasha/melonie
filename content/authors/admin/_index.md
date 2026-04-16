@@ -40,12 +40,22 @@ education:
       institution: University of Glasgow
       year: 2028
 
-# social:
-#   # - icon: github
-#   #   icon_pack: fab
-#   #   link: https://github.com/meloniedealmeida
-#   #   display:
-#   #     header: true
+social:
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/meloniedealmeida
+    display:
+      header: true
+  - icon: linkedin
+    icon_pack: fab
+    link: https://uk.linkedin.com/in/melonien
+    display:
+      header: true
+  - icon: university
+    icon_pack: fab
+    link: https://www.gla.ac.uk/pgrs/meloniedealmeida/
+    display:
+      header: true
 #   - icon: cv
 #     icon_pack: ai
 #     link: files/resume/resume-melonie.pdf

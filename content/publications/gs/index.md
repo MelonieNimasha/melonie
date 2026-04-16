@@ -3,9 +3,9 @@ title: "Sampling 3D Gaussian Scenes in Seconds with Latent Diffusion Models"
 publishDate: 2026-03-20
 
 authors:
+  - Paul Henderson
   - Melonie de Almeida
   - Daniela Ivanova
-  - Paul Henderson
   - Titas Anciukevičius
 
 publication_types:
