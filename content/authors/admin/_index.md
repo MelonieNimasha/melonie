@@ -55,18 +55,22 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 ### About me ##
 
-I am a PhD student at the University of Glasgow working at the intersection of computer vision, probabilistic modeling, and physics‑inspired machine learning. My research focuses on developing probabilistic methods for 3D and 4D reconstruction in settings where data are limited or highly constrained. I am particularly interested in incorporating uncertainty modeling and physical priors to enable more robust reasoning about geometry and dynamics, with key applications in space science and autonomous driving.
+
+I am currently a Computer Science PhD student at the University of Glasgow working at the intersection of computer vision, probabilistic modeling, and physics‑inspired machine learning. I am part of the [Computer Vision and Autonomous Systems (CVAS)](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/computervisionandautonomoussystems/) research group and the [Information, Data and Analysis (IDA)](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/) Section. I am currently supervised by [Dr Paul Henderson](https://www.pmh47.net/) and [Dr John Williamson](https://www.gla.ac.uk/schools/computing/staff/johnwilliamson/).
+
+My research focuses on developing probabilistic methods for 3D and 4D reconstruction in settings where data are limited or highly constrained. I am particularly interested in incorporating uncertainty modeling and physical priors to enable more robust reasoning about geometry and dynamics, with key applications in space science and autonomous driving.
+
 
 <!-- <a href="https://github.com/meloniedealmeida" target="_blank" style="float: right">
   <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
 </a> -->
 
-<span style="display: block; height: 8px;"></span>
+<!-- <span style="display: block; height: 8px;"></span> -->
 
 
 
 
-### News
+<!-- ### News
 
 |        |   |  |
 |------------|---|--------|
@@ -74,7 +78,7 @@ I am a PhD student at the University of Glasgow working at the intersection of c
 | **Mar 2026** | 🎉 | Paper accepted at ICPR 2026 |
 | **Mar 2026** | 🎉 | Paper accepted at WCCI 2026 |
 | **Jan 2024** | 🎓 | Started PhD at the University of Glasgow |
-| **Dec 2023** | 🎓 | Graduated with an MSc in Data Science from the University of Glasgow |
+| **Dec 2023** | 🎓 | Graduated with an MSc in Data Science from the University of Glasgow | -->
 
 
 

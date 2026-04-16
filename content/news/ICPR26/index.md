@@ -6,7 +6,7 @@ slides: example
 # summary: 
 tags:
 - Outreach
-title: Paper accepted at ICPR 2026.
+title: 🎉 Paper accepted at ICPR 2026.
 # links:
   # - icon_pack: fas
   #   icon: scroll

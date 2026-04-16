@@ -6,7 +6,7 @@ slides: example
 # summary: 
 tags:
 - Outreach
-title: Paper accepted at the AI4Space Workshop (CVPR 2026).
+title: 🎉 Paper accepted at the AI4Space Workshop (CVPR 2026).
 # links:
   # - icon_pack: fas
   #   icon: scroll

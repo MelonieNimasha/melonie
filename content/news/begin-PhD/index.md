@@ -6,7 +6,7 @@ slides: example
 # summary: 
 tags:
 - Outreach
-title: Started PhD at the University of Glasgow.
+title: 🎓 Started PhD at the University of Glasgow.
 # links:
   # - icon_pack: fas
   #   icon: scroll

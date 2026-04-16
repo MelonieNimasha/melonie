@@ -1,4 +1,4 @@
-<!-- ---
+---
 active: true
 widget: portfolio
 headless: true
@@ -28,4 +28,4 @@ design:
   #   5 = Showcase
   view: 2
   flip_alt_rows: false
---- -->
+---

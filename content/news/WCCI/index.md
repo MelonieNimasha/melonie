@@ -6,7 +6,7 @@ slides: example
 # summary: 
 tags:
 - Outreach
-title: Paper accepted at WCCI 2026.
+title: 🎉 Paper accepted at WCCI 2026.
 # links:
   # - icon_pack: fas
   #   icon: scroll
