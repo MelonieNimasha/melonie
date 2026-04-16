@@ -72,6 +72,13 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 
 
+
+
+
+
+
+
+
 ### About me ##
 
 I am currently a Computer Science PhD student at the University of Glasgow working at the intersection of computer vision, probabilistic modeling, and physics‑inspired machine learning. I am part of the [Computer Vision and Autonomous Systems (CVAS)](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/computervisionandautonomoussystems/) research group and the [Information, Data and Analysis (IDA) Section](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/). I am currently supervised by [Dr Paul Henderson](https://www.pmh47.net/) and [Dr John Williamson](https://www.gla.ac.uk/schools/computing/staff/johnwilliamson/). My research focuses on developing probabilistic methods for 3D and 4D reconstruction in settings where data are limited or highly constrained. I am particularly interested in incorporating uncertainty modeling and physical priors to enable more robust reasoning about geometry and dynamics, with key applications in space science and autonomous driving.
