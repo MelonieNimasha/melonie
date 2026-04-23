@@ -24,4 +24,4 @@ links:
     name: Project Page
     url: "https://anciukevicius.com/seconds/"
 ---
-WCCI 2026 (accepted)
+IJCNN 2026 (accepted)
