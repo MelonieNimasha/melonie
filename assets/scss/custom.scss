@@ -112,6 +112,13 @@ h2, h3 {
   top: auto;
 }
 
+/* Vertically center the About section in the visible viewport. */
+#about.home-section {
+  min-height: calc(100vh - 70px);
+  display: flex;
+  align-items: center;
+}
+
 .btn-copy-code {
   color: black;
   margin-bottom: 10px;
