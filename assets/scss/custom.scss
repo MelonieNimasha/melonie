@@ -129,6 +129,17 @@ h2, h3 {
   }
 }
 
+/* Slightly reduce text size in News and Publications sections. */
+#news,
+#publications {
+  .article-style,
+  .card-text,
+  p,
+  li {
+    font-size: 0.95rem;
+  }
+}
+
 .btn-copy-code {
   color: black;
   margin-bottom: 10px;
